@@ -68,7 +68,6 @@
 		<library name="shared"        preload="false" />
 	</section>
 	
-	<assets path="mobile" rename="assets/mobile" if="mobile" />
 	<assets path="arwen_soundfont/"	    rename=''		    if="MISC_ALLOWED" />
 	<assets path="plugins/"             rename=''               if="VIDEOS_ALLOWED windows" />
 	<assets path="dlls/"                rename=''               if="VIDEOS_ALLOWED windows" />
